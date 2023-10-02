@@ -1,3 +1,3 @@
 ## Atividade 
 
-<img src="/frase/images/print.png" alt="print">
+<img src="/images/print.png" alt="print">
